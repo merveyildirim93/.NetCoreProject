@@ -10,7 +10,7 @@ namespace DataAccess.Concrete.EntityFramework
     {
        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"server=DESKTOP-LPCMNOF\SQLEXPRESS;database=Northwind;user ID=Merve;password=123*Merve;integrated security=True");
+            optionsBuilder.UseSqlServer(@"server=DESKTOP-LPCMNOF\SQLEXPRESS;database=Northwind;integrated security=True");
         }
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
