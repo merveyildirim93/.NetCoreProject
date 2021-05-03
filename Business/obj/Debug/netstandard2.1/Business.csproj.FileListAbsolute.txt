@@ -1,0 +1,16 @@
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\obj\Debug\netstandard2.1\Business.pdb
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\Business\bin\Debug\netstandard2.1\Core.pdb
