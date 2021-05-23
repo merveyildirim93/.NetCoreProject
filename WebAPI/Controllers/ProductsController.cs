@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.BusinessAspects.Autofac;
 using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
@@ -40,6 +41,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
+        [SecuredOperation("product.add,admin")]
         [HttpPost("add")]
         public IActionResult Add(Product product)
         {

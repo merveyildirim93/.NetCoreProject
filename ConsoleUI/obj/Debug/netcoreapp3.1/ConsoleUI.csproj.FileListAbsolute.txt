@@ -67,3 +67,7 @@ C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Flu
 C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
 C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\W10\Desktop\PROJECTS\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
